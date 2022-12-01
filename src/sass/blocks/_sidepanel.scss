@@ -23,5 +23,11 @@
             font-weight: bold;
         }
     }
+    &__link {
+        img {
+            max-width: 20px;
+            max-height: 20px;
+        }
+    }
 
 }
